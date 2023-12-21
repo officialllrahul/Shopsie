@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808592512626",
+    "firebase_url": "https://shopsie-43546-default-rtdb.firebaseio.com",
+    "project_id": "shopsie-43546",
+    "storage_bucket": "shopsie-43546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808592512626:android:ae0d9b5a80269cefb994eb",
+        "android_client_info": {
+          "package_name": "com.example.shopsie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808592512626-0i8nkvv4dsj1stokfm6ioedm25n8nbs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAttxcgZSIhTvoUACacEetQiH0ATelKtDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808592512626-0i8nkvv4dsj1stokfm6ioedm25n8nbs7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808592512626-6i6up2su5lqm1kcb920p2833pg70pis9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

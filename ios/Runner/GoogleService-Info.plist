@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808592512626-6i6up2su5lqm1kcb920p2833pg70pis9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808592512626-6i6up2su5lqm1kcb920p2833pg70pis9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>808592512626-n305uibte7nkrlup63958pj8ag0jtunk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhNdftuQOuzRDWl6BZP7hb8h1--h16N3c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808592512626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shopsie</string>
+	<key>PROJECT_ID</key>
+	<string>shopsie-43546</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopsie-43546.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808592512626:ios:0e1506e7db147428b994eb</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopsie-43546-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
