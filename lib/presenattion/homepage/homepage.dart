@@ -85,7 +85,7 @@ class _homePageState extends State<homePage> {
                               children: [
                                 Text('Seller ID: ${data['seller_id']}'),
                                 Text('Description: ${data['p_description']}'),
-                                Text('Price: ${data['p_price']}'),
+                                Text('Price: ₹${data['p_price']}'),
                               ],
                             ),
                           ),

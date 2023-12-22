@@ -24,7 +24,7 @@ class _VerifyCodeState extends State<VerifyCode> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20),
+        padding: const EdgeInsets.fromLTRB(20,200,20,0),
         child: Column(
           children: [
             const SizedBox(height: 50,),
@@ -69,7 +69,7 @@ class _VerifyCodeState extends State<VerifyCode> {
                       }
                     }
                   } catch (e) {
-                    toastMessage(e.toString());
+                    // toastMessage(e.toString());
                   }
                 },
                 text: 'Verify OTP',

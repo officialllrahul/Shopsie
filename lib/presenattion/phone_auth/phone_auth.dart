@@ -59,7 +59,9 @@ class _PhoneAuthState extends State<PhoneAuth> {
                           style: TextStyle(
                               color: Colors.grey,
                               fontSize: 14,
-                              fontWeight: FontWeight.bold))),
+                              fontWeight: FontWeight.bold)
+                      )
+                  ),
                 ),
               ),
               TextField(
@@ -74,8 +76,8 @@ class _PhoneAuthState extends State<PhoneAuth> {
                 onPressed: () {
                   String phoneNumber = phonenumberController.text.trim();
                   // Ensure that the phone number starts with a plus sign
-                  if (!phoneNumber.startsWith("+")) {
-                    phoneNumber = "+$phoneNumber";
+                  if (!phoneNumber.startsWith("+91")) {
+                    phoneNumber = "+91$phoneNumber";
                   }
                   auth.verifyPhoneNumber(
                     phoneNumber: phoneNumber,
